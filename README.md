@@ -1,7 +1,7 @@
 # rhythm_ace_sample_recorder
 A script to help automate the process of recording samples off of a Rhythm Ace drum machine
 
-![Screenshot of rhythm_ace_sample_recorder running](https://github.com/yourusername/yourrepository/blob/main/assets/screenshot.png)
+![Screenshot of rhythm_ace_sample_recorder running](https://github.com/equant/rhythm_ace_sample_recorder/blob/main/assets/screenshot.png)
 
 ## Install and Usage
 
